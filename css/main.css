@@ -245,7 +245,7 @@ body {
 /* SSSSSSSAAAAALLLLEEEEEEE */
 
 .sale {
-  background: url(/img/info-img.jpg) 50% 50% / cover no-repeat;
+  background: url(../img/info-img.jpg) 50% 50% / cover no-repeat;
 }
 
 .sale__block {
@@ -440,7 +440,7 @@ body {
 
 .contact {
   color: #fff;
-  background: url(/img/telephone-bg.svg) 50% 50% / cover no-repeat;
+  background: url(../img/telephone-bg.svg) 50% 50% / cover no-repeat;
 }
 
 .contact__title {
