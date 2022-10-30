@@ -20,7 +20,7 @@ body {
 
 .header {
   color: #fff;
-  background: url(../img/main-bg.jpg) 50% 50% / cover no-repeat;
+  background: url(../../img/main-bg.jpg) 50% 50% / cover no-repeat;
 }
 
 .link-wrapper {
@@ -245,7 +245,7 @@ body {
 /* SSSSSSSAAAAALLLLEEEEEEE */
 
 .sale {
-  background: url(../img/info-img.jpg) 50% 50% / cover no-repeat;
+  background: url(../../img/info-img.jpg) 50% 50% / cover no-repeat;
 }
 
 .sale__block {
